@@ -1,0 +1,82 @@
+
+.card {
+    margin-top: 40px;
+}
+
+.navbar {
+ position: fixed;
+ z-index: 999;
+ top: 0;
+ right: 0;
+ left: 0;
+}
+.tab{
+    margin-top: 100px;
+    /* margin-left: 80px; */
+}
+
+.tab{
+  position: fixed;
+ z-index: 999;
+ top: -25px;
+ /* right: 0%; */
+ left: 0;
+ height: 1000px;
+ width: 8%;
+   
+}
+button#tabs-tab-in {
+    margin-top: 36px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+button#tabs-tab-us {
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+button#tabs-tab-jp {
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    
+}
+button#tabs-tab-au {
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+button#tabs-tab-ca {
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+button#tabs-tab-ch {
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+button#tabs-tab-de {
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.banner-head {
+    background: antiquewhite;
+}
+.tab .nav-link.active {
+  background-color: rgb(187, 40, 40); 
+  color: rgb(106, 26, 26); 
+}
+.container.d-flex.justify-content-center.align-items-center {
+    margin-top: 20px;
+}
+
+
